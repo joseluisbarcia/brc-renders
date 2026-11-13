@@ -1,0 +1,40 @@
+{
+ "previews": [
+  {
+   "file": "robot-malo-rasposa-1.mp3",
+   "generated_voice_id": "JfE76EyfyuGTueu8U7Z5",
+   "design": "rasposa",
+   "robot": "robot-malo-rasposa-1-robot.mp3"
+  },
+  {
+   "file": "robot-malo-rasposa-2.mp3",
+   "generated_voice_id": "lDcbslXxQFEP0JkeugI7",
+   "design": "rasposa",
+   "robot": "robot-malo-rasposa-2-robot.mp3"
+  },
+  {
+   "file": "robot-malo-rasposa-3.mp3",
+   "generated_voice_id": "K7ykBLcVGdcdqzV6ts0S",
+   "design": "rasposa",
+   "robot": "robot-malo-rasposa-3-robot.mp3"
+  },
+  {
+   "file": "robot-malo-nasal-1.mp3",
+   "generated_voice_id": "jraJn3VeDeSGZwfMvA9t",
+   "design": "nasal",
+   "robot": "robot-malo-nasal-1-robot.mp3"
+  },
+  {
+   "file": "robot-malo-nasal-2.mp3",
+   "generated_voice_id": "3hsIU5jAQ1KHwZa9e7bB",
+   "design": "nasal",
+   "robot": "robot-malo-nasal-2-robot.mp3"
+  },
+  {
+   "file": "robot-malo-nasal-3.mp3",
+   "generated_voice_id": "i9WJyFHEf3sQ5gL3blMF",
+   "design": "nasal",
+   "robot": "robot-malo-nasal-3-robot.mp3"
+  }
+ ]
+}
