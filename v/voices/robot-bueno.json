@@ -1,0 +1,34 @@
+{
+ "previews": [
+  {
+   "file": "robot-bueno-candida-1.mp3",
+   "generated_voice_id": "gyXuX39wmjhykiZmrjru",
+   "design": "candida"
+  },
+  {
+   "file": "robot-bueno-candida-2.mp3",
+   "generated_voice_id": "CiQ6tvOE3kGNRPlCmd8g",
+   "design": "candida"
+  },
+  {
+   "file": "robot-bueno-candida-3.mp3",
+   "generated_voice_id": "fE9MsUykeqEjKg8LS3qS",
+   "design": "candida"
+  },
+  {
+   "file": "robot-bueno-fresca-1.mp3",
+   "generated_voice_id": "XHprrs06VcQ6olKevaAS",
+   "design": "fresca"
+  },
+  {
+   "file": "robot-bueno-fresca-2.mp3",
+   "generated_voice_id": "zSxj3PBwrGcJGVNEp1ML",
+   "design": "fresca"
+  },
+  {
+   "file": "robot-bueno-fresca-3.mp3",
+   "generated_voice_id": "vPCPcTy3keefTQM5Vk0R",
+   "design": "fresca"
+  }
+ ]
+}
