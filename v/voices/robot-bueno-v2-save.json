@@ -1,4 +1,21 @@
 {
- "previews": [],
- "saved_voice_id": "sgnsaM6k2ouAqZP0LpIq"
+ "previews": [
+  {
+   "file": "robot-bueno-v2-save-a-video.mp3",
+   "text": "Este vídeo lo ha hecho Claude. Un vídeo cada día."
+  },
+  {
+   "file": "robot-bueno-v2-save-b-bideo.mp3",
+   "text": "Este bídeo lo ha hecho Claude. Un bídeo cada día."
+  },
+  {
+   "file": "robot-bueno-v2-save-c-vi-deo.mp3",
+   "text": "Este ví-deo lo ha hecho Claude. Un ví-deo cada día."
+  },
+  {
+   "file": "robot-bueno-v2-save-d-videos.mp3",
+   "text": "Este VÍdeo lo ha hecho Claude. Un VÍdeo cada día."
+  }
+ ],
+ "saved_voice_id": "jO0J4JPBYECaqJV4pJud"
 }
