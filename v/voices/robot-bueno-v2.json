@@ -1,0 +1,34 @@
+{
+ "previews": [
+  {
+   "file": "robot-bueno-v2-cercana-1.mp3",
+   "generated_voice_id": "4WAWoNNVKvNdHVwv2yqg",
+   "design": "cercana"
+  },
+  {
+   "file": "robot-bueno-v2-cercana-2.mp3",
+   "generated_voice_id": "sgnsaM6k2ouAqZP0LpIq",
+   "design": "cercana"
+  },
+  {
+   "file": "robot-bueno-v2-cercana-3.mp3",
+   "generated_voice_id": "94TmF4iETASlllT6sqkI",
+   "design": "cercana"
+  },
+  {
+   "file": "robot-bueno-v2-locutor-1.mp3",
+   "generated_voice_id": "GDYpm9tmQHWJdhVoNuSZ",
+   "design": "locutor"
+  },
+  {
+   "file": "robot-bueno-v2-locutor-2.mp3",
+   "generated_voice_id": "jO0J4JPBYECaqJV4pJud",
+   "design": "locutor"
+  },
+  {
+   "file": "robot-bueno-v2-locutor-3.mp3",
+   "generated_voice_id": "NY2b5aCECcBlHgdmWpJ9",
+   "design": "locutor"
+  }
+ ]
+}
